@@ -8,7 +8,7 @@ Stable Tag: 1.0.0
 Requires at least: 3.2
 Tested up to: 4.0.1
 
-Online guidance tool which improves the online experience and the user satisfaction
+Superb Guidance tool which improves the online experience and the user satisfaction
 
 == Description ==
 

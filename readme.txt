@@ -36,16 +36,16 @@ This is a great tool to assist your site users and answer questions they may hav
 * Displays an icon on the right edge of the page
 * Icon toggles the sliding panel containing all defined sections and titles
 
-= Plugin usage instructions =
+**Plugin usage instructions**
 
-1) Go to "Add New Help Item"
-2) Fill the "Title" and "Content"
-3) Click "Add Help Item" to dynamically add more items
-4) Check "Show on every page"
-5) Click "Save Changes"
-6) Go to any page of your website
-7) Look for Help Icon on the right edge of the screen
-8) Click on the icon to open the widget
+1. Go to "Add New Help Item"
+2. Fill the "Title" and "Content"
+3. Click "Add Help Item" to dynamically add more items
+4. Check "Show on every page"
+5. Click "Save Changes"
+6. Go to any page of your website
+7. Look for Help Icon on the right edge of the screen
+8. Click on the icon to open the widget
 
 
 == Screenshots ==

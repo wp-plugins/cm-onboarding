@@ -1,6 +1,6 @@
 === CM OnBoarding Plugin ===
 Author URI: http://plugins.cminds.com/
-Tags: Cminds, CM, help, sidebar, widget
+Tags: help,sidebar,widget,tutorial,support,onbording,on-boarding
 Stable Tag: 1.0.0
 
 This plugin allows to create Help Items Widget to be displayed on each page of the website.

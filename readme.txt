@@ -60,9 +60,10 @@ for your own "virtual currency". The purpose of this plugin is to allow in-site 
 
 == Screenshots ==
 
-1. Questions List Page.
-2. Question Submission Form.
-3. Question Thread Page.
+1. OnBoarding Widget when closed.
+2. OnBoarding Widget when open.
+3. Help item editing.
+4. Plugin settings.
 
 == Installation ==
 

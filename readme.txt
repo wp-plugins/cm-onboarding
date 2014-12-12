@@ -62,8 +62,8 @@ for your own "virtual currency". The purpose of this plugin is to allow in-site 
 
 1. OnBoarding Widget when closed.
 2. OnBoarding Widget when open.
-3. Help item editing.
-4. Plugin settings.
+3. Plugin settings.
+4. Help item editing.
 
 == Installation ==
 

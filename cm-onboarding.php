@@ -224,6 +224,23 @@ class CMOnBoarding
         return '<div class="cmob-pro-only"><div><strong>Only in PRO!</strong> Go <a href="'.$href.'" class="button button-primary">PRO!</a></div></div>';
     }
 
+    /**
+     * Returns the author Url (for free version only)
+     */
+    public static function getAuthorUrl()
+    {
+        /*
+         * By leaving following snippet in the code, you're expressing your gratitude to creators of this plugin. Thank You!
+         */
+        $authorUrl = '<div style="display:block;clear:both;"></div><span class="cmetg_poweredby">';
+        $authorUrl .= '<a href="http://cminds.com/" target="_blank" class="cmetg_poweredbylink">CreativeMinds WordPress</a>';
+        $authorUrl .= ' <a href="http://plugins.cminds.com/" target="_blank" class="cmetg_poweredbylink">Plugin</a>';
+        $authorUrl .= ' <a href="http://plugins.cminds.com/" target="_blank" class="cmetg_poweredbylink">' . CMOB_NAME . '</a>';
+        $authorUrl .= '</span><div style="display:block;clear:both;"></div>';
+
+        return $authorUrl;
+    }
+
 }
 
 /**

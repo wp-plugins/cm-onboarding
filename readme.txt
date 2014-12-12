@@ -57,6 +57,7 @@ This is a great tool to assist your site users and answer questions they may hav
 * [CM MicroPayments](https://plugins.cminds.com/cm-micropayment-platform/) - Adds the in-site support 
 for your own "virtual currency". The purpose of this plugin is to allow in-site transactions without the necessity of processing the external payments each time (quicker & easier). Developers can use it as a platform to integrate with their own plugins.
 
+
 == Screenshots ==
 
 1. Questions List Page.
